@@ -14,6 +14,8 @@ public class Test1 {
 			System.out.println("Hi there this is Nagarjun second commit-- git confict resolve");
 			
 			System.out.println("Hi there this is User 1 Second commit-- git conflict");
+			
+			System.out.println("Hi this is user 1 branching");
 		}
 	}
 
