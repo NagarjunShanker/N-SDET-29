@@ -7,7 +7,9 @@ public class Test1 {
 		
 		@Test
 		public void praticeGitHub() {
-			System.out.println("Hi there this is Nagarjun Frist push");
+			System.out.println("Hi there this is Nagarjun Frist commit");
+			
+			System.out.println("Hi there this is User 1 Frist commit");
 		}
 	}
 
